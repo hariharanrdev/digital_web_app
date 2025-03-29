@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital_web_app/static/css/main.d5e88639.css",
+    "main.js": "/digital_web_app/static/js/main.434c5050.js",
+    "index.html": "/digital_web_app/index.html",
+    "main.d5e88639.css.map": "/digital_web_app/static/css/main.d5e88639.css.map",
+    "main.434c5050.js.map": "/digital_web_app/static/js/main.434c5050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e88639.css",
+    "static/js/main.434c5050.js"
+  ]
+}
